@@ -5,16 +5,24 @@ Um simples aplicativo de Lista de Tarefas feito com HTML, CSS e JavaScript. Perm
 **🚀 Funcionalidades**
 
 ✔️ Adicionar tarefas à lista
+
 ✔️ Remover tarefas individuais
+
 ✔️ Armazenamento das tarefas no LocalStorage
+
 ✔️ Interface responsiva e estilizada
+
 
 **🛠️ Tecnologias Utilizadas**
 
 🔹 HTML5
+
 🔹 CSS3
+
 🔹 JavaScript (ES6)
+
 🔹 LocalStorage (para persistência de dados)
+
 
 **📦 Estrutura do Projeto**
 
