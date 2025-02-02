@@ -29,19 +29,6 @@
 </code>
 </pre>
 
-<h2>🔧 Como Executar o Projeto</h2>
-<pre>
-<code>
-# Clone este repositório
-git clone https://github.com/seu-usuario/lista-de-tarefas.git
-
-# Acesse a pasta do projeto
-cd lista-de-tarefas
-
-# Abra o arquivo index.html no navegador
-</code>
-</pre>
-
 <h2>🎯 Como Usar</h2>
 <ul>
   <li>Digite uma nova tarefa no campo de texto</li>
