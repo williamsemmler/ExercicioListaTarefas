@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container"> 
+        <div>
+            <h2>Minhas tarefas</h2>
+        </div>
+        <div>
+            <h3>Clique em "Adicionar Tarefa" para começar sua lista</h3>
+        </div>
+
+        <div class="addTask">
+            <div class="task">
+                <input type="text" class="text">
+                <button onclick="addTarefa()">Adicionar tarefa</button>
+            </div>
+        </div>
+
+        <div class="listTask">
+            <ul class="listTaskItems">
+            </ul>
+        </div>
+
+    </div>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>
